@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #8CBDE1;
+}
+.header{
+    text-align: center;
+
+}
+.anh{
+    border-width: 5px;
+    border-style: solid;
+    color: white;
+}
+section.section.main {
+    padding-left: 167px;
+}
+.content{
+    width: 900px ;
+    height: auto;
+
+}
+.col-md-3{
+    background: #AFD3EB;
+    border-width: 5px;
+    border-style: solid;
+    color: white;
+}
+.col-md-6{
+    background: lightblue;
+    border-width: 5px;
+    border-style: solid;
+    color: white;
+}
+h1 {
+    top: -5px;
+    position: absolute;
+    padding-left: 135px;
+    color: white;
+}
+.tren{
+    margin-top: 15px;
+    background: #AFD3EB;
+}
+.duoi{
+    margin-top: 15px;
+    background: #AFD3EB;
+}
+.khoibenphai{
+    background-color: white;
+}
